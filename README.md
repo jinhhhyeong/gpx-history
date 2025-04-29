@@ -1,6 +1,8 @@
 # GPX-history
 gpx files for my cycling, running
 
+
+<!--
 ## How to download?
 
 1. Go to the cycling/running directory
@@ -14,3 +16,4 @@ gpx files for my cycling, running
 
 
 [youtube]:https://youtube.com/@jinhyeongbae?si=tlwKJhkEUBicnV3-
+-->
