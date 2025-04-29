@@ -1,4 +1,9 @@
-# GPX-history
+## GPX-Read
+1. Reading GPX files
+2. Show power based on speed from map API(naver)
+3. Share(Instagram, Blog)
+
+## GPX-history
 gpx files for my cycling, running
 
 
